@@ -1,1 +1,1 @@
-# OLX-Clone-for-iitg
+# OLX Clone for IITG
